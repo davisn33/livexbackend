@@ -1,3 +1,3 @@
-const serverPath = "http://65.0.102.27:5020";
+const serverPath = "https://livexback.herokuapp.com";
 
 module.exports = serverPath;
