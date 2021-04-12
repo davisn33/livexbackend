@@ -1,0 +1,37 @@
+[
+  {
+    "_id": {
+      "$oid": "603495caadbb3347fcf532af"
+    },
+    "flag": true,
+    "name": "admin",
+    "email": "admin@admin.com",
+    "password": "$2a$10$1e3KDhvW07MmuEbQed7MYu/9jdQli/X4un5ZCtOs6id/oCnQZ4n3u",
+    "createdAt": {
+      "$date": "2021-02-23T05:42:34.362Z"
+    },
+    "updatedAt": {
+      "$date": "2021-03-06T05:11:07.942Z"
+    },
+    "__v": 0,
+    "image": "storage/16144229753481606561336718images (5).jpg",
+    "key": null,
+    "package": null
+  },
+  {
+    "_id": {
+      "$oid": "603a3c545236981e60160a85"
+    },
+    "flag": false,
+    "name": "dummy admin",
+    "email": "admin@dummy.com",
+    "password": "$2a$10$4x6jRCrFtqQeo0OWrYsbs.dQnxNsDKQBECA0L2ALYLxtMmt7sy1Um",
+    "createdAt": {
+      "$date": "2021-02-27T12:34:28.428Z"
+    },
+    "updatedAt": {
+      "$date": "2021-02-27T12:34:48.006Z"
+    },
+    "__v": 0
+  }
+]

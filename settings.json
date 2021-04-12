@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "604320b3966bac447c4b8ad0"
+  },
+  "hostCharge": 5,
+  "loginBonus": 2000,
+  "googlePayId": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnY8H5P4fRFEytOvNSX5ny9OXJJEwuRGoB7vYyQxYBFdZgD0UwJxFqd/uYh7eE9AH6BJLcKE9iiCnpNuS7qFV2VgBOL1WReAjQ9CyCoYYcbjaPAHINhpnK8naaWneStq6M7Hn02FqFX7/RRUwiB8WxmEUt5NV1YmsKDDBm42dCjbNwOVIdnR86zk/ItHn6wjPNcUGXNtG+HPnnpzq/ptYenpF2qT3s/wolLi4vnbwtxhyv9jLFjwfVpRltQ4GcbB0+bfEBZ9w8wvs3bhpXF9JFbhw/aubjBCKnIr+HCUWyH5WavDzMsS1zy7mi54RJjNj/JrKpmN49rpc7m7rKZD/wQIDAQAB",
+  "agoraId": "1157aaab348246c98c316680d6e8ebac",
+  "policyLink": "test",
+  "createdAt": {
+    "$date": "2021-03-06T06:26:59.248Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-07T12:38:04.827Z"
+  },
+  "__v": 0,
+  "redeemGateway": "Paytm,Paypal,Google pay,Amazone",
+  "currency": "$",
+  "howManyCoins": 2000,
+  "minPoints": 200,
+  "toCurrency": 1,
+  "dailyTaskMaxValue": 200,
+  "dailyTaskMinValue": 50,
+  "streamingMaxValue": 200,
+  "streamingMinValue": 50
+}]
